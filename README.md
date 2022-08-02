@@ -1,4 +1,5 @@
 # portfolio 
 Portfolio:
 
-This is a webiste with links to all my chapters of my Intro to Prog course.
+Project done for Introduction to Programming Course at Code College using Javascript, HTML and CSS.
+
